@@ -1,5 +1,7 @@
 # Enabling Communication for Paralyzed Individuals through EMG-based Speech Synthesis
 
+![UI](Assets/Concept.PNG)
+
 ## Problem Statement:
 The problem we aim to address is the communication challenges faced by paralyzed individuals in the healthcare sector. Many paralyzed individuals find it difficult to express their thoughts and needs verbally, leading to a diminished quality of life. In Sri Lanka, the attention given to developing solutions for the disabilities of paralyzed individuals has been limited.
 
@@ -12,7 +14,7 @@ Our solution involves the creation of a device that processes EMG signals from p
 EEG or EMG signals are processed to extract relevant neural impulses.
 
 ### 2. ML Decoding:
-Trained ML models decode neural impulses into rough sentences.
+Trained ML models decode neural impulses into control signals, which can be used to control keyboard splitting system.
 
 ### 3. LLM Refinement:
 Language models refine rough sentences for precise communication.
