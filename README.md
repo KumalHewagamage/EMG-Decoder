@@ -1,6 +1,6 @@
 # Enabling Communication for Paralyzed Individuals through EMG-based Speech Synthesis
 
-![UI](Assets/Concept.PNG)
+![UI](Assets/Concept.png)
 
 ## Problem Statement:
 The problem we aim to address is the communication challenges faced by paralyzed individuals in the healthcare sector. Many paralyzed individuals find it difficult to express their thoughts and needs verbally, leading to a diminished quality of life. In Sri Lanka, the attention given to developing solutions for the disabilities of paralyzed individuals has been limited.
