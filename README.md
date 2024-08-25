@@ -45,7 +45,7 @@ Language models refine rough sentences for precise communication.
 ### 4. Audio Transmission:
 Processed sentences are transmitted through speakers by TTS.
 
-![Video Demo](Assets/Demo.mp4)
+[![Video Title](Assets/thumb.png)](Assets/Demo.mp4)
 
 ## Contributing:
 We welcome contributions from developers, researchers, and healthcare professionals. If you're interested in contributing to this project, please fork the repository and submit a pull request.
